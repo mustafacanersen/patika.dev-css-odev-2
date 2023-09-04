@@ -1,0 +1,57 @@
+.center {
+    display: flex;
+    justify-content: center;
+}
+.firstContainer {
+    background-color: #EEEEEE;
+    width: 90%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.el {
+    margin: 0;
+}
+.secondContainer {
+    width: 37%;
+    background-color: #7EE5DA;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    margin-top: 2px;
+}
+.thirdContainer {
+    background-color: #70CCC2;
+    width: 23%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    margin-top: 2px;
+    font-size: 80%;
+}
+.forthContainer {
+    background-color: #62B3AA;
+    width: 40%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 2px;
+    font-size: 80%;
+}
+.fifthContainer {
+    display: flex;
+    justify-content: center;
+    font-size: 80%;
+}
+
+
